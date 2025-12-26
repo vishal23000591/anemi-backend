@@ -1,11 +1,10 @@
 Flask==3.0.0
 flask-cors==4.0.0
 
-
 tensorflow==2.20.0
+numpy
+pandas
 
-numpy==1.24.4
-pandas==2.1.4
 
 
 scikit-learn==1.4.0
